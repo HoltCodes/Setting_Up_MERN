@@ -19,6 +19,7 @@ echo node_modules/ > .gitignore
 
 6. npm install express
 7. npm install mongoose
+7. npm intall cors
 
 Then, within the server.js add the following code:
 
