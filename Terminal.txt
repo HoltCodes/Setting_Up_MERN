@@ -38,8 +38,10 @@ Let's create our modularized project structure by making four more folders withi
 This is how we create the project structure for our backend. Now, let's create our React project via create-react-app. Since React is used for the client side code, we can call our project "client". Make sure you are in the root folder level for your project.
 
 8. cd ..
+
 9. npx create-react-app client
 10. npm i axios @reach/router --legacy-peer-deps
+
 
 Now that you have your React project built, you will be running two different servers: your front end React server with live reloading and your Express server.
 
