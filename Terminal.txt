@@ -39,6 +39,7 @@ This is how we create the project structure for our backend. Now, let's create o
 
 8. cd ..
 9. npx create-react-app client
+10. npm i axios @reach/router --legacy-peer-deps
 
 Now that you have your React project built, you will be running two different servers: your front end React server with live reloading and your Express server.
 
