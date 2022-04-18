@@ -29,6 +29,8 @@ const port = 8000;
     
 app.listen(port, () => console.log(`Listening on port: ${port}`) );
 
+8. nodemon server.js
+
 
 
 Let's create our modularized project structure by making four more folders within server folder that are called "config", "controllers", "models" and "routes".
